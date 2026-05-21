@@ -4,7 +4,7 @@ Designed and configured a corporate network environment with routing, switching,
 
 ## Network Diagram
 
-![Enterprise Network Diagram](enterprise-network-diagram.drawio.png)
+
 
 ## Architecture
 - Cisco 4321 router with Dynamic NAT, DHCP, and default gateway
